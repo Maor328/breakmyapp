@@ -1,0 +1,6 @@
+node_modules/
+*.log
+report.json
+# generated per-run outputs (keep the committed demo badge/cast if you want them in the README)
+demo.pid
+.DS_Store

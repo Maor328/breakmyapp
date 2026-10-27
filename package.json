@@ -1,0 +1,11 @@
+{
+  "name": "breakmyapp",
+  "version": "0.7.0",
+  "description": "Point it at your app. Watch it try to break it. Get a survival score and a README badge.",
+  "type": "module",
+  "bin": { "breakmyapp": "./bin/breakmyapp.mjs" },
+  "engines": { "node": ">=18" },
+  "files": ["bin", "README.md", "START-HERE.md"],
+  "keywords": ["fuzzing", "testing", "security", "chaos", "cli"],
+  "license": "MIT"
+}
