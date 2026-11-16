@@ -18,9 +18,9 @@ jobs:
         run: |
           npm ci || true
           # e.g. npm start &  — start your real app here, on localhost
-          node demo/server.mjs &        # <-- replace with your app's start command
+          node demo/secure-server.mjs & # <-- replace with your app's start command
       - name: Wait for it
-        run: npx --yes wait-on http://localhost:3000
+        run: npx --yes wait-on http-get://localhost:3000
 
       # 2) attack it. breakmyapp exits non-zero on any CRITICAL finding or if the server dies.
       - name: Break my app
