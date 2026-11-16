@@ -34,6 +34,6 @@
     <tspan fill="#f5f3ff">BREAK</tspan><tspan fill="#f5f3ff"> MY </tspan><tspan fill="url(#gold)">APP</tspan>
   </text>
   <rect x="208" y="118" width="86" height="4" rx="2" fill="url(#gold)"/>
-  <text x="300" y="121" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="600" letter-spacing="5" fill="#a99fd6">BREAK IT BEFORE THEY DO</text>
+  <text x="300" y="121" font-family="'Segoe UI',system-ui,sans-serif" font-size="15" font-weight="600" letter-spacing="5" fill="#a99fd6">BREAK IT BEFORE THEY DO!</text>
   <text x="208" y="150" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14.5" fill="#7c7399">27 attackers · survival score · fix report</text>
 </svg>
